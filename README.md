@@ -1,4 +1,4 @@
-# MIANet: Dual-Stage Long-Short Term Memory
+# MIANet: Mukli-level information aggregation Network
 ## Paper
 This repo is the origin pytorch implementation of **MIANet** in the following paper: MIANet: Multi-level temporal information aggregation in mixed-periodicity time series forecasting tasks.
 ## Code
